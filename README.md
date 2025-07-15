@@ -1,4 +1,4 @@
-# Gems and Goblins - AI Character Creator
+# Gems and Goblins - AI Character Creator (WIP)
 
 An AI-powered character creator for Old School Renaissance (OSR) tabletop role-playing games, built with Google's Genkit Flows. This project serves as a gentle introduction to Genkit while providing a functional character generation tool for classic RPG systems.
 
