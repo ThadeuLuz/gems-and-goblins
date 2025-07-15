@@ -1,6 +1,6 @@
 import { render } from "preact";
 import "./index.css";
-import { Sheet } from "./sheet.tsx";
+import { Sheet } from "./components/sheet.tsx";
 import { initializeApp } from "firebase/app";
 import type { CharacterSheetType } from "./utils/schemas.ts";
 import faelarImage from "./assets/faelar.png";
